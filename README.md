@@ -1,5 +1,6 @@
 # RadarView
-仿王者荣耀战力分析图
+### 仿王者荣耀战力分析图
+---
 ![战力分析图](https://github.com/fengfeilong0529/RadarView/blob/master/pics/2.png "feilong")
 
 ![效果图](https://github.com/fengfeilong0529/RadarView/blob/master/pics/1.png "feilong")
